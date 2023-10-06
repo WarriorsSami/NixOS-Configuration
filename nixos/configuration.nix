@@ -171,6 +171,7 @@
       vim
       wget
       neovim
+      neofetch
       lf
       gcc
       gnat
@@ -190,6 +191,7 @@
       jetbrains.idea-ultimate
       jetbrains.pycharm-professional
       jetbrains.rust-rover
+      jetbrains.datagrip
       jetbrains-toolbox
       spotify
       discord
