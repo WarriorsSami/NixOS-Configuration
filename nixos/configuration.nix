@@ -170,6 +170,10 @@
   environment.systemPackages = with pkgs; [
       vim
       wget
+      zip
+      unzip
+      file
+      etcher
       neovim
       neofetch
       lf
